@@ -1,0 +1,4 @@
+gen_back.cpp		fill a container using function objects, lambda functions
+swap_ranges.cpp		uses swap_ranges from std, back_inserters
+reverse_n.cpp	     	implements reverse on n elements using swap_ranges_n
+reverse_copy.cpp     	reverse using an output iterator, prints reversed alphabet
